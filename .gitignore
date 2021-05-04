@@ -1,2 +1,8 @@
 
 client/src/pastries/
+
+server/admin/src/pastries/Component/index.js
+
+server/admin/src/pastries/Component/PLACEHOLDER.jsx
+
+server/admin/src/pastries/Component/styled.js
